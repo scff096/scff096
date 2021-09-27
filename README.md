@@ -1,8 +1,8 @@
   ### Olá, Mundo! Me chamo Silvio Cesar Fernandes Filho
 <div align="center">
   <a href="https://github.com/scff096">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scff096&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scff096&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=scff096&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scff096&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   </div>
 <div style="display: inline_block"><br>

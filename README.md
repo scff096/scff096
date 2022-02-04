@@ -1,4 +1,6 @@
   ## Hey guys! I'm Silvio Filho.
+  <li>💻 I'm currently learning Data Science</li>
+  <li> 📍 Anápolis - Go, Brazil.</li>
 <!-- <div align="center">
   <a href="https://github.com/scff096">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=scff096&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

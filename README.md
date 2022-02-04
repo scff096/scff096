@@ -1,17 +1,15 @@
-  ## Olá, Mundo! Eu sou o Silvio Fernandes
-<div align="center">
+  ## Hey guys! I'm Silvio Fernandes.
+<!-- <div align="center">
   <a href="https://github.com/scff096">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=scff096&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scff096&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  </div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Silvio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Silvio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Silvio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Silvio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Silvio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="right" alt="peepoHacker" height="100" style="border-radius:50px;" src="https://cdn.betterttv.net/emote/60f5b7d32d1eba5400d07202/3x">
   

@@ -12,10 +12,7 @@
   <img align="center" alt="Silvio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Silvio-CY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg">
   
-            
           
-  
-
 
   <img align="right" alt="peepoHacker" height="100" style="border-radius:50px;" src="https://cdn.betterttv.net/emote/60f5b7d32d1eba5400d07202/3x">
   

@@ -16,9 +16,9 @@
   <img align="center" alt="Silvio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Silvio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Silvio-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Silvio-CY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line-wordmark.svg">
+  <img align="center" alt="Silvio-CY" height="30" width="40" src="https://opensource-demo.orangehrmlive.com/__/assets/cypress_s-oVtifuuw.png">
           
-  
+  <!-- "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line-wordmark.svg" -->
   
           
             

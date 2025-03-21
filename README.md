@@ -1,5 +1,5 @@
   ## Hey guys! I'm Silvio Cesar.
-  <li>💻 I'm currently learning Quality Assurance</li>
+  <li>💻 I'm currently learning about Quality Assurance</li>
   <li> 📍GO, Brazil. Uai!</li>
 
   
